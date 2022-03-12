@@ -1,0 +1,22 @@
+* {
+    background-color: gold;
+}
+header {
+    font-weight: bolder;
+}
+h1 {
+    font-style: italic;
+    color: blue;
+    text-align: center;
+}
+#container {
+    background-color: azure;
+}
+.absolute-container {
+    background-color: azure;
+    position: absolute;
+    right: 300px;
+}
+a {
+    display: block;
+}
